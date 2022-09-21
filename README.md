@@ -1,5 +1,6 @@
 # ChatWorld-A-Social-Media-App-
 Uses Python 3.9 and Django as the backend languages
+
 Developed on Ubuntu 20.04
 Enables users to join discord-like servers opened to everyone and chat about their interests
 Users can also post images and videos with captions to everyone
